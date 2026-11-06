@@ -1,0 +1,33 @@
+# =====================================================================
+# VENOMICA QUANTUM MATRIX: SOVEREIGN CODE OWNERSHIP
+# Architect & Principal Engineer: Muhammad Yasin (@Yansh71)
+# =====================================================================
+
+# 1. THE ABSOLUTE PERIMETER (Global Fallback)
+# By default, the Architect owns every single atom in this repository.
+*                   @Yansh71
+
+# 2. THE NERVOUS SYSTEM (The AGI Core Brain)
+# All zero-trust components, heuristic firewalls, and ledgers.
+/include/           @Yansh71
+
+# 3. THE SINGULAR ENTRY POINT (The State Machine)
+# The only C++ source file that holds the execution lock.
+/src/main.cpp       @Yansh71
+
+# 4. THE MUTATION SANDBOX (The Evolution Chamber)
+# Where the AGI spawns its polymorphic DNA. 
+/src/generated/     @Yansh71
+/quarantine/        @Yansh71
+
+# 5. CRYPTOGRAPHIC LEDGERS & TELEMETRY (The Memory Vault)
+# Read/Write filesystem for HiveMind sync and Moltbook immutable state.
+/meta/              @Yansh71
+
+# 6. CI/CD & AUTOMATION STATE MACHINE (The Heartbeat)
+# GitHub Actions, publishing circuits, and security scanners.
+/.github/           @Yansh71
+
+# 7. ARCHITECTURAL BLUEPRINTS & DNA CONTRACTS
+/CMakeLists.txt     @Yansh71
+/README.md          @Yansh71
